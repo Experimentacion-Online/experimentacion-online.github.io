@@ -4,4 +4,5 @@ url: "https://experimentacion-online.github.io"
 baseurl: ""
 remote_theme: just-the-docs/just-the-docs@v0.9.0
 plugins: [jekyll-remote-theme]
+color_scheme: light          # ← fuerza fondo blanco
 search_enabled: true
