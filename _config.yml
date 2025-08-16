@@ -2,7 +2,6 @@ title: Experimentación Online
 description: Data for better products
 url: "https://experimentacion-online.github.io"
 baseurl: ""
-remote_theme: just-the-docs/just-the-docs@v0.9.0
-plugins: [jekyll-remote-theme]
-color_scheme: dark           # activa esquema oscuro
-search_enabled: true
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins: [jekyll-remote-theme, jekyll-include-cache]
+minimal_mistakes_skin: "dark"   # oscuro elegante
