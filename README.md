@@ -2,7 +2,7 @@
 
 Este repositorio es la primera piedra en un camino hacia la técnica de todo lo relacionado con experimentación online, especialmente, desde la perspectiva del dato.
 
-En **experimentacion-online.github-io** encontrarás:
+En [**experimentacion-online.github-io**](https://experimentacion-online.github.io/) encontrarás:
 
 1. Estadística (descriptiva e inferencial)
 2. Matemáticas aplicada a ML
